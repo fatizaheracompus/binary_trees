@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * binary_tree_preorder - Fct goes through a binary tree using pre-order traversal.
+ * binary_tree_preorder - goes through a binary tree using pre-order traversal.
  * @tree: Is a pointer to the root node of the tree to traverse.
  * @func: Is a pointer to a function to call for each node.
  */
